@@ -13,7 +13,7 @@
  
 import mysql.connector as mysql
  
-con = mysql.connect(host="localhost", user="root", passwd="Jyoti@0987")
+con = mysql.connect(host="localhost", user="root", passwd="")
  
 cursor = con.cursor()
  
